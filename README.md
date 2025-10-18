@@ -10,7 +10,7 @@ Simulate **Speech-to-Text (STT)** and **Text-to-Speech (TTS)** operations, with 
 Install via Composer:
 
 ```bash
-composer require rana-tuhin/laravel-voice-ai
+composer require rana-tuhin/laravel-voice-ai:@dev
 ```
 
 Laravel will **auto-discover** the package.
