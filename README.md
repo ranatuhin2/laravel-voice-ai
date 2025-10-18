@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ranatuhin2/laravel-voice-ai/blob/main/resources/icon.png" width="600" alt="Laravel Voice AI">
+  <img src="https://github.com/ranatuhin2/laravel-voice-ai/blob/main/resources/icon.png" width="800" alt="Laravel Voice AI">
 </p>
 
 # Laravel Voice AI
