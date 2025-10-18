@@ -27,5 +27,7 @@
      "require": {
           "php": "^8.1",
           "illuminate/support": "^10.0"
-     }
+     },
+     "minimum-stability": "dev",
+     "prefer-stable": true
 }
