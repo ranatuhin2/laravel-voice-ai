@@ -22,7 +22,8 @@
                "aliases": {
                     "VoiceAI": "RanaTuhin\\VoiceAI\\Facades\\VoiceAI"
                }
-          }
+          },
+          "icon": "resources/icon.png"
      },
      "require": {
           "php": "^8.1",
