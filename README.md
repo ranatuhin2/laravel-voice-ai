@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ranatuhin2/laravel-voice-ai/resources/icon.png" width="600" alt="Laravel Voice AI">
+</p>
+
 # Laravel Voice AI
 
 **AI Voice / Speech Processing package for Laravel**  
