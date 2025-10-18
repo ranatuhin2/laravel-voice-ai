@@ -31,7 +31,7 @@
      "repositories": [
           {
                "type": "path",
-               "url": "https://github.com/ranatuhin2/laravel-voice-ai.git"
+               "url": "../laravel-voice-ai"
           }
      ]
 }
